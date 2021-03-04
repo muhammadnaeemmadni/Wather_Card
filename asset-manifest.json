@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%7BWather_Card%7D/static/css/main.b3e8d7b0.chunk.css",
+    "main.js": "/%7BWather_Card%7D/static/js/main.31e241de.chunk.js",
+    "main.js.map": "/%7BWather_Card%7D/static/js/main.31e241de.chunk.js.map",
+    "runtime-main.js": "/%7BWather_Card%7D/static/js/runtime-main.d5393ffb.js",
+    "runtime-main.js.map": "/%7BWather_Card%7D/static/js/runtime-main.d5393ffb.js.map",
+    "static/js/2.cdaf57d8.chunk.js": "/%7BWather_Card%7D/static/js/2.cdaf57d8.chunk.js",
+    "static/js/2.cdaf57d8.chunk.js.map": "/%7BWather_Card%7D/static/js/2.cdaf57d8.chunk.js.map",
+    "static/js/3.9909ca4c.chunk.js": "/%7BWather_Card%7D/static/js/3.9909ca4c.chunk.js",
+    "static/js/3.9909ca4c.chunk.js.map": "/%7BWather_Card%7D/static/js/3.9909ca4c.chunk.js.map",
+    "index.html": "/%7BWather_Card%7D/index.html",
+    "static/css/main.b3e8d7b0.chunk.css.map": "/%7BWather_Card%7D/static/css/main.b3e8d7b0.chunk.css.map",
+    "static/js/2.cdaf57d8.chunk.js.LICENSE.txt": "/%7BWather_Card%7D/static/js/2.cdaf57d8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/%7BWather_Card%7D/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5393ffb.js",
+    "static/js/2.cdaf57d8.chunk.js",
+    "static/css/main.b3e8d7b0.chunk.css",
+    "static/js/main.31e241de.chunk.js"
+  ]
+}
